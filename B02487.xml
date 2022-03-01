@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The happy sinner: or, The penitent malefactor. Being the prayers and last words of one Richard Cromwel (some time a souldier and chyrurgion in the late D. of Monmouth's Army, and since of their present Majesties) who was executed at Leichfield for murder, on the 3d. day of July, 1691. Wherein are not only contained his prayers ... but also his last speech ... And also, his legacy to his county, of choyce, physical, and chyrurgical receipts ...</title>
+            <author>Cromwel, Richard, d. 1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02487</idno>
+            <idno type="STC">Wing C7035</idno>
+            <idno type="STC">ESTC R171606</idno>
+            <idno type="EEBO-CITATION">53299030</idno>
+            <idno type="OCLC">ocm 53299030</idno>
+            <idno type="VID">179803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179803)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2804:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The happy sinner: or, The penitent malefactor. Being the prayers and last words of one Richard Cromwel (some time a souldier and chyrurgion in the late D. of Monmouth's Army, and since of their present Majesties) who was executed at Leichfield for murder, on the 3d. day of July, 1691. Wherein are not only contained his prayers ... but also his last speech ... And also, his legacy to his county, of choyce, physical, and chyrurgical receipts ...</title>
+                  <author>Cromwel, Richard, d. 1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Clavell ... and sold by Mich. Johnson ...,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: t.p. stained with slight loss of text.</note>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwel, Richard, d. 1691 --  Death and burial --  Early works to 1800.</term>
+               <term>Murderers --  Great Britain --  Early works to 1800.</term>
+               <term>Last words --  England --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179803:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>
+               <hi>The Happy Sinner:</hi> OR, The Penitent Malefactor.</p>
+            <p>BEING The Prayers and Laſt Words of one <hi>Richard Cromwel</hi> (ſome Time a Souldier and Chyrurgion in the Late D. of <hi>Monmouth</hi>'s Army, and ſince of Their Preſent Majeſties) who was Executed at <hi>Leichfield</hi> for Murder, on the 3d. day of <hi>July,</hi> 1691. Where<g ref="char:EOLhyphen"/>in are not only contained his Prayers, (drawn up by his own hand, which (with a little Variation) may fitly be uſed by moſt Chriſtian People) but alſo his Laſt Speech, which is a very Pious and Godly Exhortation to all Chriſtian People, to forſake Sin and Wickedneſs, and to turn to <hi>GOD,</hi> before He over<g ref="char:EOLhyphen"/>take them with His Juſt Judgments for their Wickedneſs.</p>
+            <p>AND ALSO, His LEGACY to his County, of Choyce, Phyſical, and Chyrurgical Receipts, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>I. A Balſome for Wounds, Bruiſes, Pains, Aches, Stiches, and Sprains.</item>
+               <item>II. A very Extraordinary Receipt for the Worms.</item>
+               <item>III. Two ſeveral Receipts for that Tormenting Diſtemper, the Wind Collick.</item>
+               <item>IV. A Cure for all Colds or C<gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ghs, New or Old.</item>
+               <item>V. A Purge for the Head, which Cures <gap reason="illegible: bleedthrough" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>oſt Pains, and helps the Eye-ſight.</item>
+               <item>VI. A General Purge, c<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrying off all Flegme, Choller, Melan<g ref="char:EOLhyphen"/>cholly, from a<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l parts of the Body <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hereby Curing or pre<g ref="char:EOLhyphen"/>venting many Diſeaſes.</item>
+               <item>VII. A most Excellent Plaiſter for all Pain<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+            </list>
+            <p>And Laſtly, Directions to make Two <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>veral Waters for the Eyes, with the Laſt of which he Cured a Boy in <hi>Leichfield</hi> that had been Blind Three Years.</p>
+            <p>TOGETHER, With a Strange and Wonderful Account of Three Ravens Flying againſt the Walls of his Chamber, which he eſteemed as ſent by God to give him Notice of his Approaching Death.</p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Clavell,</hi> at the Peacock in St. <hi>Pauls Church Yard,</hi> and are to be Sold by <hi>Mich. Johnſon,</hi> Bookſeller in <hi>Leichfield,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:179803:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 104 -->
+            <pb facs="tcp:179803:2"/>
+            <!-- PDF PAGE 104 -->
+            <pb n="2" facs="tcp:179803:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 105 -->
+            <head>
+               <hi>A PRAYER</hi> Applyed to my Preſent State and Condition, being <hi>Condemned to Dye</hi> the 23d. of <hi>April.</hi>
+            </head>
+            <p>VOuchſafe O thou God of all Mercy and Compaſſion, to look with Pity upon the moſt woful Caſe of a poor Wretch, ready by the Sword of Juſtice to be cut off, as unworthy to live amonſt Men, and like alſo, with<g ref="char:EOLhyphen"/>out thy ſpeedy Favour, to be ſhut out of Heaven, and to have my part in the ſecond Death. Truth it is O Lord, that all this, though it be grievous, yet it is no more than my deſert; and touching that bodily Death, whereto I am adjudged, I muſt confeſs it to be thy Mercy and Goodneſs towards me, that I have been found out by the eye of the Magiſtrate, and ſtopped by the Power of Authority, from going on in further Evil: I beſeech thee that my death may be both a Chaſtiſe<g ref="char:EOLhyphen"/>ment to me, and an Advertiſement to others, to contain them<g ref="char:EOLhyphen"/>ſelves within the Bonds of true Obedience; but now concern<g ref="char:EOLhyphen"/>ing my Soul, which is now e're long to appear before the Tri<g ref="char:EOLhyphen"/>bunal Seat of thy great Majeſty, I humbly pray thee to be mer<g ref="char:EOLhyphen"/>ciful thereunto: I cannot but acknowledge, that if thou give me my due Recompence, I muſt be thruſt into that dreadful place of infinite and eternal Torment, which thou haſt prepa<g ref="char:EOLhyphen"/>red for the Wicked, the Burning whereof is Fire and much Wood, and thy Breath like a River of Brimſtone doth kindle, neither ſee I in my ſelf, or in any Creature, any means or poſſibility to eſcape; fearful unto me hath been the Face of an Earthly Judge, and the Sentence of Death to be inflicted upon this my Houſe of Clay, hath made my Heart to quake, What then will become of me when I ſhall be Arraigned before thee, at whoſe rebuking the very Foundations of the Earth are diſcovered, and before whom, no man living can be juſtified? Thou, O Lord, knoweſt all mine Iniquities, they are ſealed up with thee as in a bag, they are all noted in thy Regiſters; although I have many times ſought for the covering of my evil ways, to hide my ſelf in the darkneſs of the Night, ſuppoſing that no Eye ſhould ſee me, yet thou haſt ſtill compaſſed my Paths, and been accuſtomed to all my ways; there hath not been a Thought in my Heart, or a Word in my Tongue, but thou haſt wholly known it; often
+<pb n="3" facs="tcp:179803:3"/>
+               <!-- PDF PAGE 105 -->have I ſaid in my heart, God will not regard, he hath forgotten, he hideth away his face, and will never ſee, I ſhall never be mo<g ref="char:EOLhyphen"/>ved, nor be in danger; thy Word I never delighted to hear, I hated Knowledge, I would none of thy Counſel, I ſought to dam up the Mouth of my Conſcience that it might not Check me; when my Friends admoniſhed me, I hated and ſcorned their Reproof, then it was a paſtime to me to do naughtily, Wicked<g ref="char:EOLhyphen"/>neſs was ſweet in my Mouth, and would not be perſwaded to forſake it; juſtly therefore, O Lord haſt thou overtaken me, and made me eat the Fruit of my own way, bringing me to be a Spectacle of the World, to dye as one of the Fools of the Peo<g ref="char:EOLhyphen"/>ple, yet, O gracious God, there is Mercy with thee, and that thou art very ready to forgive, be favourable, I entreat thee to me a moſt unworthy Sinner: <hi>Manaſſes</hi> being put in Fetters, and bound in Chains, prayed unto thee, and humbled himſelf great<g ref="char:EOLhyphen"/>ly before thee in his Tribulation, and thou waſt entreated of him; the Woman of <hi>Canaan,</hi> whom thou termedſt to be no better than a Dog, yet thou didſt afford her ſome Crumbs of Mercy, and didſt cauſe it to be unto her as ſhe deſired; the Thief at his Execution confeſſed his ſins, and prayed to be re<g ref="char:EOLhyphen"/>membred in thy Kingdom, and thou didſt promiſe him an En<g ref="char:EOLhyphen"/>trance into Paradice: O Lord, Are not theſe things written for my Learning, that I, through the Comfort of theſe Examples might have hope? Hath thy Word ſpoken it in vain, That at what time ſoever a Sinner ſigheth unto thee, thou wilt put all his Wickedneſs from before thee? Shall I think that thou wilt call me, being laden with my Sins, to come unto thee, and when I come, will not accept me? Make me I pray thee, to ſee the depth of my Sins my ſelf; And grant alſo, that thoſe which ſee my End, and know mine evil ways, may have ſome Evidence of my Repentance, and may learn of me to beware of the de<g ref="char:EOLhyphen"/>ceitfulneſs of Sin; Enable me to look with the Eye of my Faith upon my Crucified Saviour, caſting my ſelf wholly upon him; and deſiring by him to be hidden from thy Wrath, give me ſome Taſt of thy Love, and ſome inward and ſecret Pledge of thy being reconciled to me for his ſake; ſtrengthen me againſt the fear of Death, that albeit I have every way juſt Cauſe to tremble at it, it being both the deſert of my Offences to men, and the Wages of my Sins againſt thee, yet having ſome Aſſu<g ref="char:EOLhyphen"/>rance in my Soul, that the ſting thereof is plucked out, I may embrace it in my Boſome, and entertain it as an end appointed for my Miſery, and as a Means to bring me unto Happineſs:
+<pb n="4" facs="tcp:179803:4"/>
+               <!-- PDF PAGE 106 -->Thus, O Lord, with fullneſs of my deſire, out of the bottom of this Miſery and Shame which I am fallen into, to fly unto thy Mercy, and to be ſhrowded under the ſhadow of thy Grace, I Commend my ſelf, my Soul, and my Body into thy hands, pray<g ref="char:EOLhyphen"/>ing thee not to caſt him which hath no Hope but onely in thee, and that alone in and by Jeſus Chriſt, my onely Lord and Sa<g ref="char:EOLhyphen"/>viour. <hi>Amen, Amen.</hi>
+            </p>
+            <div type="part">
+               <head>Iſaiah 53, Ver. 3.</head>
+               <p>O My beloved Saviour, waſt thou deſpiſed and rejected of men, and ſhall I not learn to deſpiſe and reject my ſelf, that I may be like to thee, approved to thee, and received by thee; waſt thou a Man of Sorrows, and acquainted with grief, who kneweſt no ſin, and ſhall I who came into the world with ſin, look to go out of the world without ſorrow; didſt thou ſo patiently bear the griefs, and carry the ſorrows that were due for my ſins, and ſhall not I pati<g ref="char:EOLhyphen"/>ently bear the griefs, and carry the ſorrows that are due for mine own ſins; how could I have ſorrows, if I had not ſins, and why ſhould I not have patience, now I muſt have ſorrows; waſt thou ſtricken and ſmitten of God and afflicted, who waſt his only be<g ref="char:EOLhyphen"/>gotten, and moſt dearly Beloved Son, and ſhall I look to eſcape the Scourge who heretofore have been his Enemy, and ſtill am his un<g ref="char:EOLhyphen"/>dutifull and unworthy ſervant!</p>
+            </div>
+         </div>
+         <div type="scaffold_speech">
+            <head>His <hi>Speech</hi> to the People at his Execution.</head>
+            <opener>
+               <salute>Good People;</salute>
+            </opener>
+            <q>
+               <p>IT would much comfort my afflicted ſoul, if at this my laſt fare<g ref="char:EOLhyphen"/>well to the world; I could ſay any thing, that may be for the benefit, as to inſtructions for Sobriety, Holineſs, Juſtice, and Cha<g ref="char:EOLhyphen"/>rity. You have them ſo plentiful poured out upon you, by the Reverend Dean and Miniſters of this place, that have moſt Chriſti<g ref="char:EOLhyphen"/>anly aſſiſted me in my afflictions, that it will be your condemna<g ref="char:EOLhyphen"/>tion not to obſerve, and Obey them; and your impieties under ſuch plentifull means of Holineſs, will be utterly inexcuſable: As for my own ſins, were I to live ever ſo long, I could not ſufficiently confeſs, and Lament for them. But I hope the pardon hath this day been ſealed unto me in the Holy Sacrament, which I have re<g ref="char:EOLhyphen"/>ceived; as to the Crime for which I ſuffer, I here declare in the preſence of God, before whom I am inſtantly to appear, that I am ſo far innocent as not to have given him the wound, of which it is ſaid he dyed on: Nay I can farther add, in the preſence of God, that I had no deſign to kill him, or any other perſon what<g ref="char:EOLhyphen"/>ſoever;
+<pb n="5" facs="tcp:179803:4"/>
+                  <!-- PDF PAGE 106 -->I did not ſo much as ſee, or touch him; and conſider theſe are the Words of a dying Man, I cannot in Charity Omit to put thoſe in mind of their uncharitableneſs, who ſo far thirſted after my blood as to hinder means uſed to ſave it; and who by Un<g ref="char:EOLhyphen"/>chriſtian informations have prevented that Gracious Mercy, which otherwiſe I might have obtained. This mercy they have obſtructed, as I hear ſay, not only uncharitably but unjuſtly, by lay<g ref="char:EOLhyphen"/>ing the moſt wicked falſehood to my charge, That is, that I ſhould threaten, If I got my pardon, to be the death of Mr. <hi>Wright,</hi> or his Wife. I call God to witneſs, that this wickedneſs was never in my thoughts, and I pray God forgive them who have raiſed this falſe report: Another unmerciful ſlander which ſome have Thrown upon Me, and that ſince my condemnation, I have been guilty of Uncleaneſs with Women. I do not come hither to juſtifie my life, God knows, it hath been too wicked. But I bleſs God ſince I was a priſoner and condemn'd, I have had an abhorrence of all ſuch wickedneſs: God forgive them, God forgive them, and grant them True Repentance for what they have done: Lord lay not my Blood, nor their hindering of the means uſed to ſave it, to their charge.</p>
+               <p>But that which hath given me no ſmall Trouble, is, that I hear the Reverend, and good Dean Dr. <hi>Addiſon,</hi> who hath been ſo carefull of my ſoul, and willing to ſave my life, hath been miſ<g ref="char:EOLhyphen"/>repreſented above, for ſo doing, by thoſe whom nothing could ſa<g ref="char:EOLhyphen"/>tisfie but my death; I am now going to appear before that God, before whom you muſt alſo ſhortly appear, and as I de<g ref="char:EOLhyphen"/>ſire forgiveneſs at his hands, ſo I humbly forgive all.</p>
+               <p>God bleſs their preſent Majeſties, and preſerve the Church of <hi>England,</hi> with the Reverend Dean, and Miniſters of this place, and all who have been Charitable to me, with all others: And ſo I humbly beg Gods pardon for all my ſins, for the ſake of Chriſt; in whoſe name, I recommend my Soul to his Mercy.</p>
+               <p>I beſeech all the world to forgive me, in whatſoever I have of<g ref="char:EOLhyphen"/>fended them, whether by thought, word, or deed: I do from the bottom of my heart forgive all thoſe who have any way injured me: And laſtly, I beſeech you all, good people, to pray for me to the laſt Moment of my <hi>Life.</hi> Lord Jeſus receive my <hi>Spirit.</hi>
+               </p>
+            </q>
+            <p>How far this unhappy Man was guilty of the Crime he dy<g ref="char:EOLhyphen"/>ed for, is too late to diſpute: 'Tis indeed certain, a Man was Kil'd, but whether by this perſon, or the <hi>Switz's</hi> his compa<g ref="char:EOLhyphen"/>nion, is now the query, ſince this that Suffered, denyed it to the laſt;
+<pb n="6" facs="tcp:179803:5"/>
+               <!-- PDF PAGE 107 -->it may ſerve to inform thoſe who are ſtrangers to the thing, in<g ref="char:EOLhyphen"/>to whoſe hands this ſmall book may come, that the matter ap<g ref="char:EOLhyphen"/>peared ſo on Tryal, that the jury found cauſe to acquit the For<g ref="char:EOLhyphen"/>raigner, and bring this perſon in guilty, but as in moſt caſes of this Nature different men have different Sentiments, ſo there were ſome (and of good quality too) who ſo far concern'd themſelves on his behalf as to endeavour his Reprieve, which had they not thought him an Object deſerving Pitty, and his caſe a little hard, we may reaſonably conclude they would not have appeared therein.</p>
+            <p>It may not be improper to add, &amp; the rather, becauſe it is a thing much talked of here where the thing was done, that though the priſoner had about ſix days notice to prepare for his death, yet be<g ref="char:EOLhyphen"/>cauſe there had been ſuch means uſed for His Reprieve, he was not wholly without hopes of life, till the day before, when he be<g ref="char:EOLhyphen"/>ing upon his Knees in his Chamber, three Ravens light upon the priſon, and after making a very great noiſe there, they took wing again, but immediately returning, they flew with great violence a<g ref="char:EOLhyphen"/>gainſt the walls of the Room where he was, and there being a little hole or window, againſt which place this perſon was Kneeling, one of the Ravens hanging on the wall by her Claws put in her head thereat, and with ſo much feirceneſs, that it was thought, had the hole been big enough, ſhe would have flown in at him. This at firſt a little frighted him, but afterwards con<g ref="char:EOLhyphen"/>ſidering, that that God that had made all creatures, had ſtill the command over them, and remembring that the Raven is e<g ref="char:EOLhyphen"/>ſteemed by moſt perſons, a kind of foreteller of death, he really accounted them ſo to himſelf, and looked upon them as Meſſengers ſent by Providence to take off his hopes of life, and warn him of his approaching end. So he eſteemed them as ſent by God, and from that time laid by all Hopes of a Reprieve. This was not only told by himſelf, but will be atteſted by ſeveral perſons that ſaw them.</p>
+         </div>
+         <div type="medicinal_recipes">
+            <head>Theſe following <hi>Receipts</hi> were left by him, as a <hi>Legacy</hi> to the whole <hi>County.</hi>
+            </head>
+            <p>
+               <label>A Balſome for Wounds.</label>
+               <lb/>
+TAke yellow Roſin and pine Roſin, of each a quarter of a pound, Linſeed Oyl half a pint, Greek Pitch one Ounce, Virgins Wax two Ounces, Gum <hi>Elemni Ammonia<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um,</hi> of each half an Ounce, Oyl of <hi>Hypericon,</hi> and of Roſes Amphaline, and of Tur<g ref="char:EOLhyphen"/>pentine,
+<pb n="7" facs="tcp:179803:5"/>
+               <!-- PDF PAGE 107 -->of each of them one Ounce and an half, of Myrrh and Ma<g ref="char:EOLhyphen"/>ſtick in Powder, of each three quarters of an Ounce; Boyl them together for half an hour, then ſtrain it into a Pot: 'Tis excellent in all Wounds of what ſort ſoever, Bruiſes, Pains, Aches, Stiches, and Sprains.</p>
+            <p>
+               <label>For the Worms.</label>
+               <lb/>
+TAke Wormſeed one Ounce, of Coralline, Ruburb and Sena, of each half an Ounce, of Coriander-ſeed prepared, and Harts<g ref="char:EOLhyphen"/>horn, of each one Dram; Beat them into fine Powder, a Child of a year old may take the Weight of a Silver Two Pence.</p>
+            <p>
+               <label>For the Wind Collick.</label>
+               <lb/>
+TAke dryed Betany, and powder it, and mix it with Live Ho<g ref="char:EOLhyphen"/>ney, and make Pills of it as big as a ſmall Hazle Nut, and take two of them at night when you go to Bed.</p>
+            <p>
+               <label>For Colds.</label>
+               <lb/>
+SYrrup of Garlick, good in all Colds and Stoppages in the Lungs or Stomack. Or take a Pint of Canary, four Ounces of White Sugar Candy, and Spaniſh Juice of Liquoriſh one Ounce, two ordi<g ref="char:EOLhyphen"/>nary Heads of Garlick; Let them infuſe ſix hours, then boyl it gently to a Syrrup, and ſtrain it, and take one Spoonful Night and Morning.</p>
+            <p>
+               <label>A Purge for the Head, which Cures the Head-Ach, and takes away Rheum from the Eyes, and is good in all Pains whatſoever.</label>
+               <lb/>
+TAke Syrrup of Buckthorn one Ounce, Magiſtery of Scammo<g ref="char:EOLhyphen"/>my in Powder ten Grains, of Black-Cherry Water two Ounces, of <hi>Aqua Mirabilis</hi> one Ounce; Mix them, and take it faſting, drinking warm Gruel as it works. <hi>Note,</hi> This is a full doſe for a ſtrong Man or Woman.</p>
+            <p>
+               <label>Pills generally Purging all Humours, as Flegm, Choller, Me<g ref="char:EOLhyphen"/>lancho<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, from all Parts of the Body, thereby Curing many Diſeaſes.</label>
+               <lb/>
+TAke <hi>Pill. Corliae</hi> the greater Compoſition, <hi>Pill. Aloephanginae,</hi> and Extract of <hi>Rudius,</hi> of each one Scruple, Chymical Oyl of Nutmegs, one drop; Make them into ſix Pills, and take three at Night going to bed, and three the next Morning.</p>
+            <p>
+               <pb n="8" facs="tcp:179803:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 108 -->
+               <label>Water for Sore Eyes.</label>
+               <lb/>
+TAke Plantane Water half a Pint, white Sugar Candy one Ounce, white Vitriol one dram, Sugar of Lead one dram; Boyl them a little, and ſtrain the water for Uſe.</p>
+            <p>
+               <label>A moſt excellent Plaiſter for all Pains in the Limbs, <hi>Sciatica,</hi> and Cold Gout; it draws out Thorns or Splinters gotten into the Fleſh, under the Nails, Cures Whitlces and Andcoms, <hi>&amp;c.</hi>
+               </label>
+               <lb/>
+TAke Roſin of the Pine Tree half a pound, Gum <hi>Galbanum,</hi> and <hi>Ammoniacum,</hi> of each one Ounce, Cypreſs Turpentine three Ounces, Myrrh and Maſtick of each one Ounce and half, Deers Suet two Ounces, Saffron in powder, half an Ounce; Boyl all to the Thickneſs of a Plaiſter to ſpread on Leather.</p>
+            <p>
+               <label>Another for the Wind Collick.</label>
+               <lb/>
+TAke an equal quantity of Mint Water, Fennel Water, and the Queen of <hi>Hungaries</hi> Water, which when put together in a Bottle, and ſhaked, drink at Night going to Bed, and in the morn<g ref="char:EOLhyphen"/>ing, three ſpoonfuls, is an Excellent Cure.</p>
+            <p>
+               <label>Another for Sore-Eyes.</label>
+               <lb/>
+TAke Fennel one Handful, white Sugar Candy, a quarter of a pound, white Vitriol one Ounce, boyl theſe in two quarts of Spring-Water till it come to one; if you put in the Juice of Salindine it will take away any Pearl. This water Cured a Boy in <hi>Lichfield</hi> that had been Blind three Years.</p>
+            <div type="notice">
+               <head>Advertiſement.</head>
+               <p>ALL theſe Ingredients mention'd, are to be had at the <hi>Apothecaries,</hi> except the Queen of <hi>Hungaries</hi> Water, which is Sold by <hi>Mich. Johnſon</hi> Book<g ref="char:EOLhyphen"/>ſeller in <hi>Leichfield.</hi>
+               </p>
+            </div>
+            <pb facs="tcp:179803:6"/>
+            <!-- PDF PAGE 108 -->
+         </div>
+      </body>
+   </text>
+</TEI>
